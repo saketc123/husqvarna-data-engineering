@@ -1,0 +1,74 @@
+source_category,normalized_category,category_family
+agro_industria_e_comercio,agro_industry_and_commerce,Business & Industry
+alimentos,food,Food & Beverage
+alimentos_bebidas,food_drink,Food & Beverage
+artes,art,Arts & Crafts
+artes_e_artesanato,arts_and_craftmanship,Arts & Crafts
+artigos_de_festas,party_supplies,Party & Seasonal
+artigos_de_natal,christmas_supplies,Party & Seasonal
+audio,audio,Electronics & Audio
+automotivo,auto,Automotive
+bebes,baby,Baby & Kids
+bebidas,drinks,Food & Beverage
+beleza_saude,health_beauty,Beauty & Personal Care
+brinquedos,toys,Baby & Kids
+cama_mesa_banho,bed_bath_table,Home & Living
+casa_conforto,home_comfort,Home & Living
+casa_conforto_2,home_comfort_2,Home & Living
+casa_construcao,home_construction,Tools & Construction
+cds_dvds_musicais,cds_dvds_musicals,Books & Media
+cine_foto,cine_photo,Cameras & Photography
+climatizacao,air_conditioning,Home Appliances
+consoles_games,consoles_games,Games
+construcao_ferramentas_construcao,construction_tools_construction,Tools & Construction
+construcao_ferramentas_ferramentas,construction_tools_tools,Tools & Construction
+construcao_ferramentas_iluminacao,construction_tools_lights,Tools & Construction
+construcao_ferramentas_jardim,costruction_tools_garden,Tools & Construction
+construcao_ferramentas_seguranca,construction_tools_safety,Tools & Construction
+cool_stuff,cool_stuff,Other
+dvds_blu_ray,dvds_blu_ray,Books & Media
+eletrodomesticos,home_appliances,Home Appliances
+eletrodomesticos_2,home_appliances_2,Home Appliances
+eletronicos,electronics,Electronics & Audio
+eletroportateis,small_appliances,Home Appliances
+esporte_lazer,sports_leisure,Sports & Leisure
+fashion_bolsas_e_acessorios,fashion_bags_accessories,Fashion
+fashion_calcados,fashion_shoes,Fashion
+fashion_esporte,fashion_sport,Fashion
+fashion_roupa_feminina,fashion_female_clothing,Fashion
+fashion_roupa_infanto_juvenil,fashion_childrens_clothes,Fashion
+fashion_roupa_masculina,fashion_male_clothing,Fashion
+fashion_underwear_e_moda_praia,fashion_underwear_beach,Fashion
+ferramentas_jardim,garden_tools,Tools & Construction
+flores,flowers,Home & Living
+fraldas_higiene,diapers_and_hygiene,Baby & Kids
+industria_comercio_e_negocios,industry_commerce_and_business,Business & Industry
+informatica_acessorios,computers_accessories,Computers & Technology
+instrumentos_musicais,musical_instruments,Music
+la_cuisine,la_cuisine,Food & Beverage
+livros_importados,books_imported,Books & Media
+livros_interesse_geral,books_general_interest,Books & Media
+livros_tecnicos,books_technical,Books & Media
+malas_acessorios,luggage_accessories,Luggage & Travel
+market_place,market_place,Business & Industry
+moveis_colchao_e_estofado,furniture_mattress_and_upholstery,Furniture
+moveis_cozinha_area_de_servico_jantar_e_jardim,kitchen_dining_laundry_garden_furniture,Furniture
+moveis_decoracao,furniture_decor,Furniture
+moveis_escritorio,office_furniture,Furniture
+moveis_quarto,furniture_bedroom,Furniture
+moveis_sala,furniture_living_room,Furniture
+musica,music,Music
+papelaria,stationery,Office & Stationery
+pc_gamer,gaming_computer,Computers & Technology
+pcs,computers,Computers & Technology
+perfumaria,perfumery,Beauty & Personal Care
+pet_shop,pet_shop,Pet Supplies
+portateis_casa_forno_e_cafe,small_appliances_home_oven_and_coffee,Home Appliances
+portateis_cozinha_e_preparadores_de_alimentos,small_appliances_kitchen_and_food_preparation,Home Appliances
+relogios_presentes,watches_gifts,Jewelry & Gifts
+seguros_e_servicos,security_and_services,Services & Security
+sinalizacao_e_seguranca,signaling_and_security,Services & Security
+tablets_impressao_imagem,tablets_printing_image,Computers & Technology
+telefonia,telephony,Telephony
+telefonia_fixa,fixed_telephony,Telephony
+utilidades_domesticas,housewares,Home & Living
