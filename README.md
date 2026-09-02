@@ -58,7 +58,6 @@ The supplied taxonomy seed is incomplete. The repository extends it with normali
 │   ├── __init__.py
 │   ├── build_bronze.py
 │   ├── build_silver.py
-│   ├── build_silver_backup.py
 │   ├── build_gold.py
 │   ├── data_profile.py
 │   ├── integrity_profile.py
